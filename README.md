@@ -1,3 +1,4 @@
 # DataFormating
 DataFormatingCodeforWeka
-the data format is changed from .csv to .arff
+
+Data format is changed from .csv to .arff
